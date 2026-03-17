@@ -65,7 +65,7 @@ The AI should explain:
 • Scheduled maintenance follows fixed time intervals
 • Predictive maintenance reduces downtime
 • Traditional maintenance may lead to unnecessary servicing
-
+<img width="308" height="164" alt="image" src="https://github.com/user-attachments/assets/b7110bc6-bcad-4ea6-9da7-4f14b816a689" />
 
 Caption:
 Figure 1: Predictive maintenance vs traditional maintenance in smart manufacturing.
